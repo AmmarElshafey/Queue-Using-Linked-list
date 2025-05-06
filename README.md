@@ -1,4 +1,4 @@
-# Queue using Linked List in C++
+# 📦Queue using Linked List in C++
 
 This project demonstrates the implementation of a **Queue** data structure using a **singly linked list** in C++.
 The queue supports basic operations such as enqueue, dequeue,print, view front/rear elements, search for values, count elements, and clear the queue.
@@ -32,6 +32,7 @@ The queue supports basic operations such as enqueue, dequeue,print, view front/r
 -Object-Oriented Programming in C++
 ## 🔧 How to Run
 Make sure you have a C++ compiler
-## ✅ Author
-Ammar Said Al-Shafei
+## 👤 Author
+- Ammar Said El-Shafey
+- Computer Science Student, Tanta University
 
